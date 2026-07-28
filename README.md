@@ -1,2 +1,8 @@
-# ticket-reservation-system
-its a basic app for ticket reserving with login, id generator for following through the ticket , showing every session status
+# Ticket Reservation System
+
+Python project for managing ticket reservations.
+
+## Features
+- Reservation workflow
+- Data management
+
